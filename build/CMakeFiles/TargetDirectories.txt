@@ -1,0 +1,4 @@
+/home/litie/visual studio/MetricLibrary/build/CMakeFiles/Metric.dir
+/home/litie/visual studio/MetricLibrary/build/CMakeFiles/Main.dir
+/home/litie/visual studio/MetricLibrary/build/CMakeFiles/edit_cache.dir
+/home/litie/visual studio/MetricLibrary/build/CMakeFiles/rebuild_cache.dir
